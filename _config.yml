@@ -8,7 +8,7 @@ url: "http://richbodo.com" # the base hostname & protocol for your site
 twitter_username: richbodo
 github_username:  richbodo
 
-exclude: [vendor]
 
 Build settings
 markdown: kramdown
+exclude: [vendor]
