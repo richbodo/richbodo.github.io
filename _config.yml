@@ -10,3 +10,4 @@ github_username:  richbodo
 
 # Build settings
 markdown: kramdown
+exclude: [README.markdown, vendor]
