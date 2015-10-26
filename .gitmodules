@@ -1,0 +1,3 @@
+[submodule "shortstories"]
+	path = shortstories
+	url = https://github.com/richbodo/shortstories
