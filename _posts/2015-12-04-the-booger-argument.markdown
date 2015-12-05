@@ -1,3 +1,10 @@
+---
+layout: post
+title: "The Booger Argument"
+date: Fri Dec  4 16:56:45 PST 2015
+categories: github writing fiction sci-fi 
+---
+
 "There are things in the process view of others that you cannot see in your
 process view - things you cannot imagine." - A.E. Sukinami
 
