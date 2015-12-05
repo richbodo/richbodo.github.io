@@ -8,7 +8,7 @@ Expect to find Rich's code, writing, and other projects here, soon.
 
 If all goes as planned, this site will host all of my writing, and become a central repository to any other creative work I have generated.
  
-Today I'm porting my [pbworks site][pbworks-site] to [github pages][github-pages] - at least most of it.  
+I'm porting my [pbworks site][pbworks-site] to [github pages][github-pages] - at least most of it.  
 
 More to come. 
 
