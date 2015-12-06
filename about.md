@@ -4,8 +4,24 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+Here you will find Rich Bodo's creative works.
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
+I'm currently porting my [pbworks site][pbworks-site] to [github pages][github-pages], which hosts this site.
 
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+That's going to take a while, but I have some of my short stories here already.
+
+While I port my stuff over, I'm having a lot of fun exploring the limits of github pages and writing little tools to use github to make the creative writing process more efficient and palatable to techies.  It's a project in itself, which is a lot of fun.  [My notes on that are here.][github-creatives]
+
+Although I could not stop myself from producing creative works if I tried, your feedback is the air that my works breath.  I will respond to anyone who gets in touch with a comment, request, or, well, anything at all.  Thanks again for visiting.  
+
+All the best.
+
+-Rich
+
+---
+richbodo@gmail.com
+1-650-283-6037
+
+[pbworks-site]: http://richbodo.pbworks.com
+[github-pages]:   https://pages.github.com
+[github-creatives]: http://richbodo.pbworks.com/w/page/100881106/Github%20For%20Writers%20Who%20Like%20To%20Use%20The%20Command%20Line%20To%20Write

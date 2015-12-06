@@ -1,10 +1,9 @@
 ---
 layout: post
-title: "The Booger Argument"
-date: Fri Dec  4 16:56:45 PST 2015
-categories: github writing fiction sci-fi 
+title:  "The Booger Argument"
+date:   Sun Dec  6 14:25:23 PST 2015
+categories: github writing sci-fi simulation humor
 ---
-
 "There are things in the process view of others that you cannot see in your
 process view - things you cannot imagine." - A.E. Sukinami
 
@@ -447,6 +446,7 @@ figures it all out right before a hyperspace bypass takes out earth?"
 
 
 THE END
+
 
 
 
