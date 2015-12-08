@@ -8,7 +8,7 @@ Hi!
 
 Here you will find Rich Bodo's creative works.
 
-I'm currently this content from [pbworks site][pbworks-site] to [github pages][github-pages].  Github pages hosts the pages you are reading now.
+I'm currently porting this content from [pbworks site][pbworks-site] to [github pages][github-pages].  Github pages hosts the pages you are reading now.
 
 That porting process is going to take a while, but I have a few of my short stories here already.
 
