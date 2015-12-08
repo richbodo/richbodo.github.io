@@ -2,7 +2,7 @@
 layout: post
 title:  "What to expect here."
 date:   Wed Oct  7 15:35:02 PDT 2015
-categories: github writing non-fiction
+categories: github writing non-fiction 2015 boring
 ---
 Expect to find Rich's code, writing, and other projects here, soon.
 

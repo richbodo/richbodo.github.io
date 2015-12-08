@@ -2,7 +2,7 @@
 layout: post
 title:  "The Booger Argument"
 date:   Sun Dec  6 14:25:23 PST 2015
-categories: github writing sci-fi simulation humor
+categories: github writing sci-fi simulation humor short-stories 2015
 ---
 "There are things in the process view of others that you cannot see in your
 process view - things you cannot imagine." - A.E. Sukinami

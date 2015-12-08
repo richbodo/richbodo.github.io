@@ -8,13 +8,13 @@ Hi!
 
 Here you will find Rich Bodo's creative works.
 
-I'm currently porting my [pbworks site][pbworks-site] to [github pages][github-pages], which hosts the pages you are reading now.
+I'm currently this content from [pbworks site][pbworks-site] to [github pages][github-pages].  Github pages hosts the pages you are reading now.
 
-That porting process is going to take a while, but I have a few of my short stories here already.  The rest is being automated.
+That porting process is going to take a while, but I have a few of my short stories here already.
 
-While I port my stuff over, I'm having a lot of fun exploring the limits of github pages and writing little tools to use github to make the creative writing process more efficient and palatable to techies.  It's a project in itself, which is a lot of fun.  [My notes on that are here.][github-creatives]
+While I port my stuff over, I am exploring the limits of github pages, and writing tools that make writing fiction easier for me.  That's a project in itself.  [My notes on that are here.][github-creatives]
 
-Thank you very much for visiting.  Although I could not stop myself from producing creative works if I tried, your feedback is the air that my works breath.  I will respond to anyone who gets in touch with a comment, request, or, well, anything at all. 
+Your feedback is the air that my works breath.  Anyone who gets in touch will get a response.  Thanks for reading.
 
 All the best.
 

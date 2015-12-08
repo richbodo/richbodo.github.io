@@ -2,7 +2,7 @@
 layout: post
 title:  "The Little Things"
 date:   Sun Dec  6 14:34:49 PST 2015
-categories: github writing military fiction
+categories: github writing military fiction short-stories 2015
 ---
 
 Dale could barely feel his headache.  But that was only because it traveled with
