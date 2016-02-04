@@ -5,11 +5,12 @@ date:   Tue Feb  2 20:11:52 PST 2016
 categories: time-management productivity non-fiction
 ---
 
-[Here I explain how to employ as little time management technique as possible, while still getting things done.](/tmcd/tm-troubleshooting.html)
+[In the following diagrams, I explain how to employ as little time management technique as possible, while still getting things done.](/tmcd/tm-troubleshooting.html)
 
-That is a restatement of [my rambling research into time mangement techniques](http://richbodo.pbworks.com/w/page/98076354/Pomodoro-ish%20Technique) as a set of flowcharts.
+**Refs:**
 
-Hat tips to:
+Chernoff - [Do one thing today](http://www.marcandangel.com/2009/03/19/i-will-do-one-thing-today-to-do-list/)
 
 Cirillo - [Pomodoro Technique](http://pomodorotechnique.com/)
-Chernoff - [Do one thing today](http://www.marcandangel.com/2009/03/19/i-will-do-one-thing-today-to-do-list/)
+
+Bodo - [My notes on time management](http://richbodo.pbworks.com/w/page/98076354/Pomodoro-ish%20Technique)
