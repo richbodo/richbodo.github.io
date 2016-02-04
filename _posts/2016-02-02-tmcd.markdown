@@ -5,7 +5,7 @@ date:   Tue Feb  2 20:11:52 PST 2016
 categories: time-management productivity non-fiction
 ---
 
-[In the following diagrams, I explain how to employ as little time management technique as possible, while still getting things done.](/tmcd/tm-troubleshooting.html)
+[This text links to a diagram in which I explain how to employ as little time management technique as possible, while still getting things done.](/tmcd/tm-troubleshooting.html)
 
 **Refs:**
 
