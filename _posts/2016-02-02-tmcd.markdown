@@ -2,10 +2,10 @@
 layout: post
 title:  "Time Management Considered Dangerous"
 date:   Tue Feb  2 20:11:52 PST 2016
-categories: time-management productivity non-fiction
+categories: time-management productivity non-fiction tech-writing-exercise
 ---
 
-[This text links to a diagram in which I explain how to employ as little time management technique as possible, while still getting things done.](/tmcd/tm-troubleshooting.html)
+[This text links to a series of diagrams in which I explain how to employ as little time management technique as possible, while still getting things done.  Be productive, and enjoy!](/tmcd/tm-troubleshooting.html)
 
 **Refs:**
 
@@ -14,3 +14,4 @@ Chernoff - [Do one thing today](http://www.marcandangel.com/2009/03/19/i-will-do
 Cirillo - [Pomodoro Technique](http://pomodorotechnique.com/)
 
 Bodo - [My notes on time management](http://richbodo.pbworks.com/w/page/98076354/Pomodoro-ish%20Technique)
+
