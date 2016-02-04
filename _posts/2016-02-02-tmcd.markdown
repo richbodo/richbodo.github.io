@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Time Management Considered Dangerous"
+date:   Tue Feb  2 20:11:52 PST 2016
+categories: time-management productivity non-fiction
+---
+
+A restatement of [my musings on time mangement techniques](http://richbodo.pbworks.com/w/page/98076354/Pomodoro-ish%20Technique) as a set of flowcharts:
+
+[How to employ as little time management technique as possible, while still getting things done.](/tmcd/tm-troubleshooting.html)
+
+
