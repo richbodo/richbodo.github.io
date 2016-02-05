@@ -7,11 +7,11 @@ categories: time-management productivity non-fiction tech-writing-exercise
 
 [This text links to a series of diagrams in which I explain how to employ as little time management technique as possible, while still getting things done.  Be productive, and enjoy!](/tmcd/tm-troubleshooting.html)
 
-**Refs:**
+**See also:**
 
 Chernoff - [Do one thing today](http://www.marcandangel.com/2009/03/19/i-will-do-one-thing-today-to-do-list/)
 
 Cirillo - [Pomodoro Technique](http://pomodorotechnique.com/)
 
-Bodo - [My notes on time management](http://richbodo.pbworks.com/w/page/98076354/Pomodoro-ish%20Technique)
+[My notes on time management](http://richbodo.pbworks.com/w/page/98076354/Pomodoro-ish%20Technique)
 
