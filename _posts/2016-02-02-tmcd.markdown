@@ -5,13 +5,9 @@ date:   Tue Feb  2 20:11:52 PST 2016
 categories: time-management productivity non-fiction tech-writing-exercise
 ---
 
-[This text links to a series of diagrams in which I explain how to employ as little time management technique as possible, while still getting things done.  Be productive, and enjoy!](/tmcd/tm-troubleshooting.html)
+I present a [Time Management Troubleshooter](/tmcd/tm-troubleshooting.html) - a series of hyperlinked diagrams that describe a system of personal time management.  The goal of this system is to minimize time spent "managing" a list, and maximize time spent doing things. 
 
-**See also:**
-
-Chernoff - [Do one thing today](http://www.marcandangel.com/2009/03/19/i-will-do-one-thing-today-to-do-list/)
-
-Cirillo - [Pomodoro Technique](http://pomodorotechnique.com/)
+**See also:** 
 
 [My notes on time management](http://richbodo.pbworks.com/w/page/98076354/Pomodoro-ish%20Technique)
-
+[El Goog results for time management doesn't work](https://www.google.com/search?newwindow=1&q=time+mangement+doesn%27t+work)
