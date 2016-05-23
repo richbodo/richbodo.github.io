@@ -1,0 +1,18 @@
+
+Sections
+--------
+
+Probably have three sections:
+
+* Writing - Writing is my reward each day for doing the right thing.  I can only do it in that frame of mind.
+
+* Code - I love/hate coding.  I love it when something comes together, and I love working with others, and I love it when I save time - so coding is a means to a lot of ends for me, I suppose.  I would rather be writing.
+
+* Other Projects - Like you, I have too many projects.  Actually, I probably have more than you do, I just haven't listed them all here because that's another unfinished project of mine.  Come revel in the large number of unfinished projects I tell myself I'm too busy to complete.
+
+
+Writing Tags
+------------
+
+I need to automate a way to grab all the tags out and make an html page with clickable tags,
+or find someone elses solution.
