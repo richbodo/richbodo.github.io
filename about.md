@@ -14,7 +14,7 @@ That porting process is going to take a while, but I have a few of my short stor
 
 While I port my stuff over, I am exploring the limits of github pages, and writing tools that make writing fiction easier for me.  That's a project in itself.  [My notes on that are here.][github-creatives]
 
-Your feedback is the air that my works breath.  Anyone who gets in touch will get a response.  Thanks for reading.
+Your feedback would be awesome.  Anyone who gets in touch will get a response.  Thanks for reading.
 
 All the best.
 
