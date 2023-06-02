@@ -25,6 +25,7 @@ Sincerely,
 ---
 richbodo@gmail.com
 1-650-283-6037
+[Schedule an appointment with me][scheduling-link]
 
 [pbworks-site]: http://richbodo.pbworks.com
 [github-pages]:   https://pages.github.com
