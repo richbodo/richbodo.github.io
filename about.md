@@ -23,9 +23,9 @@ Sincerely,
 -Rich
   
 ---
-richbodo@gmail.com  
-[Linkedin profile][linkedin-site]  
-[Schedule an appointment with me][scheduling-link]  
+richbodo@gmail.com<br>    
+[Linkedin profile][linkedin-site]<br>    
+[Schedule an appointment with me][scheduling-link]<br>    
 
 [pbworks-site]: http://richbodo.pbworks.com
 [github-pages]:   https://pages.github.com
