@@ -24,12 +24,13 @@ Sincerely,
   
 ---
 richbodo@gmail.com
-1-650-283-6037
+[Linkedin profile][linkedin-site]
 [Schedule an appointment with me][scheduling-link]
 
 [pbworks-site]: http://richbodo.pbworks.com
 [github-pages]:   https://pages.github.com
 [github-creatives]: http://richbodo.pbworks.com/w/page/100881106/Github%20For%20Writers%20Who%20Like%20To%20Use%20The%20Command%20Line%20To%20Write
 [scheduling-link]:https://schedule.richbodo.com
+[linkedin-site]:https://linkedin.com/in/complete
 
 
